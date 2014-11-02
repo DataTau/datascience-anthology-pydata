@@ -11,10 +11,10 @@ There are placeholders for links to the video. Currently, the hyperlinks point t
 ## Conferences
 
 * 2015
-  * [PyData 2015 - Seattle](#yay-comingsoon)
+  * [PyData 2015 - Seattle (Coming Soon!)](#yay-comingsoon)
 
 * 2014
-  * [PyData 2014 - New York](#comingsoon)
+  * [PyData 2014 - New York (Coming Soon!)](#comingsoon)
   * [PyData 2014 - Berlin](conferences/berlin2014.md)
   * [PyData 2014 - Silicon Valley](conferences/sv2014.md)
   * [PyData 2014 - London](conferences/ldn2014.md)
