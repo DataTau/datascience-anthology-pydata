@@ -22,6 +22,10 @@ There are placeholders for links to the video. Currently, the hyperlinks point t
 * 2013
   * [PyData 2013 - New York](conferences/nyc2013.md)
   * [PyData 2013 - Boston](conferences/bos2013.md)
+  * [PyData 2012 - Silicon Valley](conferences/sv2013.md)
+
+* 2012
+  * [PyData 2012 - New York](conferences/nyc2012.md)
 
 ## Contribute
 
