@@ -31,7 +31,9 @@ There are placeholders for links to the video. Currently, the hyperlinks point t
 
 Please do send in [Pull Requests](https://github.com/DataTau/datascience-anthology-pydata/pulls) for links to the videos of the talks, typographic errors, and hyperlinks to homepages of the speakers/companies.
 
+#### Contributors 
+* [Vamshi Reddy](https://twitter.com/vchollati) - [@vchollati](https://github.com/vchollati)
 
-
+--
 
 [Comments? Suggestions? Contact Rohit on Twitter @ro_hit_](http://goo.gl/9IzUCJ)
