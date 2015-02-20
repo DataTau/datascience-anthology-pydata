@@ -11,6 +11,7 @@ There are placeholders for links to the video. Currently, the hyperlinks point t
 ## Conferences
 
 * 2015
+  * PyData Paris 2015: event will take place on April 3rd, see [website](http://pydataparis.joinux.org/)
   * [PyData 2015 - Seattle (Coming Soon!)](#yay-comingsoon)
 
 * 2014
