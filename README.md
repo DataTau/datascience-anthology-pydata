@@ -11,8 +11,10 @@ There are placeholders for links to the video. Currently, the hyperlinks point t
 ## Conferences
 
 * 2015
-  * PyData Paris 2015: event will take place on April 3rd, see [website](http://pydataparis.joinux.org/)
-  * [PyData 2015 - Seattle (Coming Soon!)](#yay-comingsoon)
+  * [PyData 2015 - Paris](conferences/paris2015.md)
+  * [PyData 2015 - Dallas](conferences/dallas2015.md)
+  * [PyData 2015 - Berlin (Coming Soon!)]
+  * [PyData 2015 - Seattle (Coming Soon!)]
 
 * 2014
   * [PyData 2014 - New York](conferences/nyc2014.md)
@@ -33,7 +35,7 @@ There are placeholders for links to the video. Currently, the hyperlinks point t
 Please do send in [Pull Requests](https://github.com/DataTau/datascience-anthology-pydata/pulls) for links to the videos of the talks, typographic errors, and hyperlinks to homepages of the speakers/companies.
 
 #### Contributors 
-* [Vamshi Reddy](https://twitter.com/vchollati) - [@vchollati](https://github.com/vchollati)
+* [Vamshi Chollati](https://twitter.com/vchollati) - [@vchollati](https://github.com/vchollati)
 
 --
 

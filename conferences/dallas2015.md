@@ -1,0 +1,38 @@
+# PyData 2015 - Dallas
+
+### Keynotes
+* [Death and Open Data - Conquering Your Fears And Sharing Your Data](http://pydata.org/dal2015/abstracts/#376) by Dana Bauer (Rackspace) -- [Link to Video](https://www.youtube.com/watch?v=tqixs-aoXX0)
+
+
+### Talks
+* [Briefly : A Python DSL to Scale Complex Mapreduce Pipelines](http://pydata.org/dal2015/abstracts/#339) by Chou-han Yang (BloomReach Inc) -- [Link to Video](https://www.youtube.com/watch?v=GOBaqN3N_So)
+* [Building Python Data Applications with Blaze and Bokeh](http://pydata.org/dal2015/abstracts/#341) by Andy R. Terrel (Continuum Analytics, NumFOCUS) , Christine Doig (Continuum Analyitcs) -- [Link to Video](https://www.youtube.com/watch?v=nar7u17qkOU)
+* [Building machine learning applications in Python](http://pydata.org/dal2015/abstracts/#374) by Rajat Arya (Sr. Product Manager, Dato) , Yucheng Low (Dato Inc) -- [Link to Video](https://www.youtube.com/watch?v=MphtprumgzA)
+* [State of the Py, 2015](http://pydata.org/dal2015/abstracts/#367) by Peter Wang (Continuum Analytics) -- [Link to Video](https://www.youtube.com/watch?v=Pkwygl3cgmU)
+* [Python in Scientific Research](http://pydata.org/dal2015/abstracts/#343) by Andy R. Terrel (Continuum Analytics, NumFOCUS) -- [Link to Video](https://www.youtube.com/watch?v=MmDGN6-7fYI)
+* [Calling Distributed Python from Inside SQL — A technical look at implementing a scalable SQL/ Python hybrid Platform](http://pydata.org/dal2015/abstracts/#344) by Paul Ingram (HUGEdata) -- [Link to Video](https://www.youtube.com/watch?v=6MiO0oGoDvA)
+* [Integration With the Vernacular (the NumPy Approach)](http://pydata.org/dal2015/abstracts/#364) by James Powell (NYC Python) -- [Link to Video](https://www.youtube.com/watch?v=u2yvNw49AX4)
+* [CPython Meanderings] by James Powell (NYC Python) -- [Link to Video](https://www.youtube.com/watch?v=2O7yj-Nh6AY)
+* [Blaze in the Real World](http://pydata.org/dal2015/abstracts/#353) by Phillip Cloud (pandas, Continuum Analytics) -- [Link to Video](https://www.youtube.com/watch?v=x0svOPW6DdE)
+* [Python for the News](http://pydata.org/dal2015/abstracts/#357) by Daniel Lathrop (The Dallas Morning News) -- [Link to Video](https://www.youtube.com/watch?v=2komcpXE2GU)
+* [A Game Engine For Engineers](http://pydata.org/dal2015/abstracts/#349) by Oliver Nagy (Private) -- [Link to Video](https://www.youtube.com/watch?v=dPn2Gpo7cLE)
+* [Deploying scikit-learn Models in Production](http://pydata.org/dal2015/abstracts/#365) by Rajat Arya (Sr. Product Manager, Dato) -- [Link to Video](https://www.youtube.com/watch?v=AwjeRg1u5VI)
+* [Assimilation - From C to Python](http://pydata.org/dal2015/abstracts/#368) by Paul Joireman (physIQ, Inc.) -- [Link to Video](https://www.youtube.com/watch?v=orAq7IkleMw)
+* [Beyond t-tests: how to conclude an online experiment using python](http://pydata.org/dal2015/abstracts/#351) by Volodymyr Kazantsev (Product Madness) -- [Link to Video](https://www.youtube.com/watch?v=8V05QOYjt0k)
+* [Introducing the World of Commercial Real Estate Data to App Developers](http://pydata.org/dal2015/abstracts/#377) by Jason Vertrees (RealMassive) -- [Link to Video](https://www.youtube.com/watch?v=aPzgZ_n9C4g)
+* [Transitioning an idea from Academia to Commercialization: A Startup Story](http://pydata.org/dal2015/abstracts/#369) by Meltem Ballan (Terastructure) -- [Link to Video](https://www.youtube.com/watch?v=b611-kVyUnM)
+* [Python is for the Curious](http://pydata.org/dal2015/abstracts/#372) by Jon Riehl (jonriehl.com) -- [Link to Video](https://www.youtube.com/watch?v=-_SsEtbJwos)
+* [SFrame: A Scalable, Out-of-Core Dataframe for Machine Learning](http://pydata.org/dal2015/abstracts/#354) by Yucheng Low (Dato Inc) -- [Link to Video](https://www.youtube.com/watch?v=wUOMaKYtaMY)
+* [Odo:shape-shifting data—a handy tool to guide you from CSV->HDFS and beyond](http://pydata.org/dal2015/abstracts/#348) by Ben Zaitlen (Continuum Analytics) -- [Link to Video](https://www.youtube.com/watch?v=r2yeWiUt4Vw)
+* [Using Python to Fight Cyber Crime](http://pydata.org/dal2015/abstracts/#371) by Kyle Maxwell (Verisign) -- [Link to Video](https://www.youtube.com/watch?v=a7v5fB2IaT4)
+* [There's No Place Like Home: Analyzing HPD Police Beat Data with Python and ArcGIS](http://pydata.org/dal2015/abstracts/#378) by Paige Bailey (Chevron, PyLadies-HTX) -- [Link to Video](https://www.youtube.com/watch?v=xDr_XGROU3Q)
+* [A Python Module for Data Analytics with Interval Computing](http://pydata.org/dal2015/abstracts/#358) by Chenyi Hu -- [Link to Video](https://www.youtube.com/watch?v=8Aig0RBisQ0)
+* [Panel - Social Media Analysis in Python](http://pydata.org/dal2015/abstracts/#373) by Jeb Stone (FareCompare) , Jigar Mistry (UT Dallas) , Rohan Patil (UT Dallas) -- [Link to Video](https://www.youtube.com/watch?v=AIvXqXeMrqw)
+* [To the Future with Jupyter](http://pydata.org/dal2015/abstracts/#375) by Kyle Kelley (Rackspace, IPython) -- [Link to Video](https://www.youtube.com/watch?v=S936yBCixfc)
+* [Hashtag Buddies](http://pydata.org/dal2015/abstracts/#359) by Prabhu Saiprabhu "Sai" (Edico Research Inc.) -- [Link to Video](https://www.youtube.com/watch?v=j77Ir4zIF1M)
+* [Reproducible Multi-language Data Science with Conda](http://pydata.org/dal2015/abstracts/#361) by Christine Doig (Continuum Analyitcs) -- [Link to Video](https://www.youtube.com/watch?v=Siyzif14eAc)
+* [Data Science for Computational Journalism](http://pydata.org/dal2015/abstracts/#360) by Chengkai Li (UT Arlington) -- [Link to Video](https://www.youtube.com/watch?v=npIa7M0kRo4)
+* [Python Data Analytics Workshop - NumPy, pandas, matplotlib, and SciPy](http://pydata.org/dal2015/abstracts/#362) by Vivian Zhang (SupStat, NYC Data Science Academy) -- [Link to Video](https://www.youtube.com/watch?v=giG3oUj6NSY)
+* [A Thorough Machine Learning Pipeline via Scikit-Learn](http://pydata.org/dal2015/abstracts/#338) by Bugra Akyildiz (Axial) -- [Link to Video](https://www.youtube.com/watch?v=1J7-p3ueQk0)
+* [Bokeh Tutorial](http://pydata.org/dal2015/abstracts/#340) by Bryan Van De Ven (Continuum Analytics) -- [Link to Video](https://www.youtube.com/watch?v=S11GfFlQgtw)
+* [H₂O Machine Learning](http://pydata.org/dal2015/abstracts/#345) by Cliff Click (H2O.ai) -- [Link to Video](https://www.youtube.com/watch?v=pbuMHrGY4LY)
