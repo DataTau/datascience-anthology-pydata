@@ -14,7 +14,7 @@ There are placeholders for links to the video. Currently, the hyperlinks point t
   * [PyData 2015 - Paris](conferences/paris2015.md)
   * [PyData 2015 - Dallas](conferences/dallas2015.md)
   * [PyData 2015 - Berlin (Coming Soon!)]
-  * [PyData 2015 - Seattle (Coming Soon!)]
+  * [PyData 2015 - Seattle (conferences/seattle2015.md)
 
 * 2014
   * [PyData 2014 - New York](conferences/nyc2014.md)
