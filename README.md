@@ -40,6 +40,9 @@ Please do send in [Pull Requests](https://github.com/DataTau/datascience-antholo
 #### Contributors 
 * [Vamshi Chollati](https://twitter.com/vchollati) - [@vchollati](https://github.com/vchollati)
 * Jacob - [@barnettjacob](https://github.com/barnettjacob)
+* Sujit Pal [@sujitpal](https://github.com/sujitpal)
+
+
 --
 
 [Comments? Suggestions? Contact Rohit on Twitter @ro_hit_](http://goo.gl/9IzUCJ)
