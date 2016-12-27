@@ -21,7 +21,7 @@
 * [Networks meet Finance in Python] by Miguel Vaz (d-fine GmbH) -- [Link to Video](https://www.youtube.com/watch?v=pmWJlD-4gIc)
 * [Tools and Tricks from a Pragmatic Data Scientist] by Lucas Bernardi (Booking.com) -- [Link to Video](https://www.youtube.com/watch?v=HS7mObQttxU)
 * [Jupyter: Notebooks in Multiple Languages for Data Science] by Thomas Kluyver, Min Ragan-Kelley -- [Link to Video](https://www.youtube.com/watch?v=T385txAYSt8)
-* [Hybrid Recommender Systems in Python] by Maciej Kula (Lyst) -- [Link to Video](https://www.youtube.com/watch?v=T385txAYSt8)
+* [Hybrid Recommender Systems in Python] by Maciej Kula (Lyst) -- [Link to Video](https://www.youtube.com/watch?v=EgE0DUrYmo8)
 * [Improving PySpark Performance: Spark Performance beyond the JVM] by Holden Karau (IBM) -- [Link to Video](https://www.youtube.com/watch?v=WThEk88cWJQ)
 * [Explaining the idea behind Automatic Relevance Determination and Bayesian Interpolation] by Florian Wilhelm -- [Link to Video](https://www.youtube.com/watch?v=2gT-Q0NZzoE)
 * [Measuring Search Engine Quality using Spark and Python] by Sujit Pal (Elsevier) -- [Link to Video](https://www.youtube.com/watch?v=e3FsyKUfcKQ)
