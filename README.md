@@ -11,6 +11,8 @@ There are placeholders for links to the video. Currently, the hyperlinks point t
 ## Conferences
 
 * 2016
+
+  * [PyData 2016 - Madrid](conferences/madrid2016.md)
   * [PyData 2016 - Amsterdam](conferences/amsterdam2016.md)
 
 * 2015
